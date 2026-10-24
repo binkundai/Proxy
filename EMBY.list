@@ -1,11 +1,11 @@
 #EMBY
-DOMAIN,v1.uhdnow.com,♻️ 良心云自动线路
-DOMAIN,v1.uhdgo.com,♻️ 良心云自动线路
-DOMAIN,v1-vod1.uhdnow.com,♻️ 良心云自动线路
-DOMAIN,v1-vod2.uhdnow.com,♻️ 良心云自动线路
-DOMAIN-SUFFIX,rexnow.tv,♻️ 绿叶自动线路
-DOMAIN-SUFFIX,themoviedb.org,♻️ 绿叶自动线路
-DOMAIN-SUFFIX,tmdb.org,♻️ 绿叶自动线路
-DOMAIN-SUFFIX,thetvdb.com,♻️ 绿叶自动线路
-DOMAIN-SUFFIX,fanart.tv,♻️ 绿叶自动线路
-DOMAIN-SUFFIX,omdbapi.com,♻️ 绿叶自动线路
+DOMAIN,v1.uhdnow.com
+DOMAIN,v1.uhdgo.com
+DOMAIN,v1-vod1.uhdnow.com
+DOMAIN,v1-vod2.uhdnow.com
+#DOMAIN-SUFFIX,rexnow.tv
+#DOMAIN-SUFFIX,themoviedb.org
+#DOMAIN-SUFFIX,tmdb.org
+#DOMAIN-SUFFIX,thetvdb.com
+#DOMAIN-SUFFIX,fanart.tv
+#DOMAIN-SUFFIX,omdbapi.com
