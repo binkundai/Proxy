@@ -4,9 +4,9 @@ DOMAIN,v1.uhdgo.com
 DOMAIN,v1-vod1.uhdnow.com
 DOMAIN,v1-vod2.uhdnow.com
 DOMAIN,embycc.wybcs.work
-DOMAIN,goemby.entertang.work
-DOMAIN,goemby.etflix.lol
-DOMAIN,embygogo.entertang.work
+#DOMAIN,goemby.entertang.work
+#DOMAIN,goemby.etflix.lol
+#DOMAIN,embygogo.entertang.work
 DOMAIN,13.yusen.cyou
 DOMAIN,aaa.yusen6.ccwu.cc
 DOMAIN,emby.yusen.us.ci
