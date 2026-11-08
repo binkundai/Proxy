@@ -1,5 +1,13 @@
 #EMBY
 DOMAIN,emby.daibinkn.workers.dev
+#折纸
+DOMAIN,cdn.zhezhi.art
+DOMAIN,emby101.origamiart.uk
+#臻影
+DOMAIN,movie.kingemby.com
+DOMAIN,fd1.kingemby.xyz
+DOMAIN,gz.kingmedia.cc.cd
+DOMAIN,zy.kingemby.com
 #UHDNOW
 DOMAIN,v1.uhdnow.com
 DOMAIN,v1.uhdgo.com
